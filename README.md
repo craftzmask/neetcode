@@ -17,5 +17,5 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 #### Two Pointers
 | Problem | Solution | Difficulty | Tag |
 | - | - | - | - |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/craftzmask/neetcode/blob/main/two_pointers/longest_consecutive_sequence.py) | Easy | Two Pointers / String |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/craftzmask/neetcode/blob/main/two_pointers/valid_palindrome.py) | Easy | Two Pointers / String |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/craftzmask/neetcode/blob/main/two_pointers/two_sum_ii_input_array_is_sorted.py) | Medium | Array / Two Pointers / Binary Search |
