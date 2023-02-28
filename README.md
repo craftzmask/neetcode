@@ -19,3 +19,4 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | - | - | - | - |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/craftzmask/neetcode/blob/main/two_pointers/valid_palindrome.py) | Easy | Two Pointers / String |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](https://github.com/craftzmask/neetcode/blob/main/two_pointers/two_sum_ii_input_array_is_sorted.py) | Medium | Array / Two Pointers / Binary Search |
+| [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/craftzmask/neetcode/blob/main/two_pointers/3_sum.py) | Medium | Array / Two Pointers / Sorting |
