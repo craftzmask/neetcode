@@ -25,4 +25,5 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 #### Sliding Window
 | Problem | Solution | Difficulty | Tag |
 | - | - | - | - |
-| [Best Time to Buy And Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/craftzmask/neetcode/blob/main/sliding_window/best_time_to_buy_and_sell_stock.py) | Easy | Array / Dynamic Programming |
+| [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/craftzmask/neetcode/blob/main/sliding_window/best_time_to_buy_and_sell_stock.py) | Easy | Array / Dynamic Programming |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/craftzmask/neetcode/blob/main/sliding_window/longest_substring_without_repeating_characters.py) | Medium | Hash Table / String / Sliding Window |
