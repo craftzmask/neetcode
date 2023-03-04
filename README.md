@@ -29,3 +29,8 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/craftzmask/neetcode/blob/main/sliding_window/longest_substring_without_repeating_characters.py) | Medium | Hash Table / String / Sliding Window |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/craftzmask/neetcode/blob/main/sliding_window/longest_repeating_character_replacement.py) | Medium | Hash Table / String / Sliding Window |
 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](https://github.com/craftzmask/neetcode/blob/main/sliding_window/permutation_in_string.py) | Medium | Hash Table / String / Two Pointers / Sliding Window |
+
+#### Stack
+| Problem | Solution | Difficulty | Tag |
+| - | - | - | - |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/valid_parentheses.py) | Easy | String / Stack |
