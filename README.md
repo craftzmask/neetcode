@@ -34,3 +34,4 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | Problem | Solution | Difficulty | Tag |
 | - | - | - | - |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/valid_parentheses.py) | Easy | String / Stack |
+| [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/min_stack.py) | Medium | Stack / Design |
