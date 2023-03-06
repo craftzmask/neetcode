@@ -36,3 +36,8 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/valid_parentheses.py) | Easy | String / Stack |
 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/min_stack.py) | Medium | Stack / Design |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/evaluate_reverse_polish_notation.py) | Medium | Array / Math / Stack |
+
+#### Binary Search
+| Problem | Solution | Difficulty | Tag |
+| - | - | - | - |
+| [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/binary_search.py) | Easy | Array / Binary Search |
