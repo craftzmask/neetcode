@@ -42,3 +42,8 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | Problem | Solution | Difficulty | Tag |
 | - | - | - | - |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/binary_search.py) | Easy | Array / Binary Search |
+
+#### Linked List
+| Problem | Solution | Difficulty | Tag |
+| - | - | - | - |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/reverse_linked_list.py) | Easy | Linked List / Recursion |
