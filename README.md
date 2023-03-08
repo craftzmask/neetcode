@@ -42,6 +42,7 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | Problem | Solution | Difficulty | Tag |
 | - | - | - | - |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/binary_search.py) | Easy | Array / Binary Search |
+| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/search_a_2d_matrix.py) | Medium | Array / Binary Search / Matrix |
 
 #### Linked List
 | Problem | Solution | Difficulty | Tag |
