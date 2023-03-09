@@ -45,6 +45,7 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/search_a_2d_matrix.py) | Medium | Array / Binary Search / Matrix |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/koko_eating_bananas.py) | Medium | Array / Binary Search |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/find_minimum_in_rotated_sorted_array.py) | Medium | Array / Binary Search |
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/search_in_rotated_sorted_array.py) | Medium | Array / Binary Search |
 
 #### Linked List
 | Problem | Solution | Difficulty | Tag |
