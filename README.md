@@ -47,6 +47,7 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/koko_eating_bananas.py) | Medium | Array / Binary Search |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/find_minimum_in_rotated_sorted_array.py) | Medium | Array / Binary Search |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/search_in_rotated_sorted_array.py) | Medium | Array / Binary Search |
+| [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](https://github.com/craftzmask/neetcode/blob/main/binary_search/time_based_key_value_store.py) | Medium | Hash Table / String / Binary Search / Design |
 
 #### Linked List
 | Problem | Solution | Difficulty | Tag |
