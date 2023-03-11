@@ -55,3 +55,4 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/reverse_linked_list.py) | Easy | Linked List / Recursion |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/merge_two_sorted_lists.py) | Easy | Linked List / Recursion |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/linked_list_cycle.py) | Easy | Hash Table / Linked List / Two Pointers |
+| [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/reorder_list.py) | Medium | Linked List / Two Pointers / Stack / Recursions |
