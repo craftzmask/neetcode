@@ -37,6 +37,7 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/min_stack.py) | Medium | Stack / Design |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/evaluate_reverse_polish_notation.py) | Medium | Array / Math / Stack |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/daily_temperatures.py) | Easy | Array / Stack / Monotonic Stack |
+| [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Python](https://github.com/craftzmask/neetcode/blob/main/stack/car_fleet.py) | Medium | Array / Stack / Sorting / Monotonic Stack |
 
 #### Binary Search
 | Problem | Solution | Difficulty | Tag |
