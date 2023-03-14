@@ -63,4 +63,5 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 #### Trees
 | Problem | Solution | Difficulty | Tag |
 | - | - | - | - |
-| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/craftzmask/neetcode/blob/main/trees/invert_binary_tree.py) | Medium | Tree / Depth-First Search / Breadth-First Search / Binary Tree |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/craftzmask/neetcode/blob/main/trees/invert_binary_tree.py) | Easy | Tree / Depth-First Search / Breadth-First Search / Binary Tree |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/craftzmask/neetcode/blob/main/trees/maximum_depth_of_binary_tree.py) | Easy | Tree / Depth-First Search / Breadth-First Search / Binary Tree |
