@@ -59,3 +59,8 @@ This repository contains all solution of [Neetcode's 150 Roadmap](https://neetco
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/remove_nth_node_from_end_of_list.py) | Medium | Linked List / Two Pointers |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/add_two_numbers.py) | Medium | Linked List / Math / Recursion |
 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](https://github.com/craftzmask/neetcode/blob/main/linked_list/find_the_duplicate_number.py) | Medium | Array / Two Pointers / Linked List |
+
+#### Trees
+| Problem | Solution | Difficulty | Tag |
+| - | - | - | - |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](https://github.com/craftzmask/neetcode/blob/main/trees/invert_binary_tree.py) | Medium | Array / Two Pointers / Linked List |
